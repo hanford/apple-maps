@@ -2,7 +2,7 @@
 
 small POC of recreating apple maps on iOS UI with web technology.
 
-![preview](https://github.com/hanford/react-flick-list/blob/master/example.gif)
+<img src="https://github.com/hanford/apple-maps/blob/master/example.gif" alt="preview" width="200" height="400" />
 
 ## License
 
