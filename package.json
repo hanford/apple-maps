@@ -1,0 +1,18 @@
+{
+  "name": "apple-maps",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "emotion": "~9.1.2",
+    "emotion-server": "~9.1.2",
+    "full-height-hoc": "~0.4.0",
+    "next": "~6.0.0",
+    "react": "~16.3.2",
+    "react-dom": "~16.3.2",
+    "react-emotion": "~9.1.2",
+    "react-motion": "~0.5.2"
+  }
+}
