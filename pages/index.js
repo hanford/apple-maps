@@ -10,9 +10,7 @@ export default class Index extends PureComponent {
     return (
       <Fragment>
         <Head />
-        <Body>
-        {/*  */}
-        </Body>
+        <Body />
 
         <Container />
       </Fragment>
